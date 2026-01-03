@@ -1,0 +1,79 @@
+RELATÓRIO TÉCNICO DE AVALIAÇÃO #1  
+PROTOCOLO: RT-SF-01
+
+ASSUNTO:
+Avaliação preliminar da unidade 04835.
+
+LOCAL:
+Complexo Industrial ████████ – Setor de Produção Desativado
+
+DATA:
+██/██/████
+
+RESPONSÁVEL:
+Eng. Técnico ██████████
+
+--------------------------------------------------
+
+OBJETIVO:
+Realizar inspeção estruturais e funcionais básica na unidade,
+visando determinar seu estado atual e viabilidade de reativação ou descarte.
+
+--------------------------------------------------
+
+DESCRIÇÃO DO SISTEMA:
+A unidade consiste em uma máquina de grande porte, projetada para executar
+operações repetitivas de alta precisão. O sistema de controle é antigo,
+baseado em protocolos não mais utlizados, porém preservado.
+
+De acordo com registros anteriores, a unidade encontra-se inativa há vários
+anos, sem alimentação elétrica contínua.
+
+--------------------------------------------------
+
+PROCEDIMENTOS REALIZADOS:
+• Inspeção visual externa  
+• Verificação de integridade estrutural  
+• Tentativa de inicialização passiva  
+• Leitura de resposta do sistema
+
+--------------------------------------------------
+
+RESULTADOS OBTIDOS:
+A estrutura física apresenta desgaste compatível com o tempo de abandono,
+sem colapsos aparentes.
+
+Durante a tentativa de inicialização passiva, o sistema respondeu com sinais
+de atividade interna antes da conclusão do procedimento.
+
+Não foi detectada fonte de energia ativa no momento da resposta.
+
+--------------------------------------------------
+
+ANÁLISE PRELIMINAR:
+O comportamento observado não corresponde integralmente à documentação
+técnica original da unidade.
+
+Apesar disso, não foram identificadas falhas críticas imediatas que
+impeçam a continuidade da avaliação.
+
+--------------------------------------------------
+
+STATUS ATUAL:
+FUNCIONALIDADE PARCIAL INDETERMINADA
+
+--------------------------------------------------
+
+RECOMENDAÇÕES:
+• Prosseguir com monitoramento controlado  
+• Evitar reativação completa até análise aprofundada  
+• Registrar qualquer resposta não solicitada do sistema
+
+--------------------------------------------------
+
+OBSERVAÇÕES FINAIS:
+A unidade não apresentou sinais claros de mau funcionamento.
+
+A resposta ocorreu sem comando direto.
+
+Encerramento do relatório.
